@@ -46,4 +46,4 @@ products.newProduct('Papa', 200, 'https://bit.ly/3zh4584');
 products.newProduct('Mandarina', 500.55, 'https://bit.ly/3zocqab');
 products.newProduct('Cebolla', 150.24, 'https://bit.ly/3kIwa42');
 products.readFile();
-// products.deleteFile();
+products.deleteFile();
